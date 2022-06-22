@@ -1,0 +1,1 @@
+summon marker ~ ~1 ~ {Tags:["GPS.particle.marker"],data:{Direction:{RandomMotion:1b,Angle:314,AngleOfElevation:0,Motion:[0.1d,0d,0.0d]},NoGravity:1b,Duration:30,StopTime:5,Particle:'[{"translate":"space.-16"},{"text":"\\u1000","font":"rpg/active_effects","obfuscated":"true"},{"translate":"space.-16"}]'}}
